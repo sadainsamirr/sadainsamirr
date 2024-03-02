@@ -21,25 +21,6 @@ I'm an aspiring Data Analytics enthusiast with a keen interest in Machine Learni
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on my college project [Speech Emotion Recognition]  
-  
-
-- 🌱 I’m currently learning numpy and pandas  
-  
-
-- ❓ Ask me about anything related to cinematography  
-  
-
-- ⚡ Fun fact: I am upto no good  
-
-
-</td></tr></table>  
-
-<br/>  
-
 ## Some Tools that that I know (kinda)
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
