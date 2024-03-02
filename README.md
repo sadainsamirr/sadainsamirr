@@ -64,17 +64,3 @@ I'm an aspiring Data Analytics enthusiast with a keen interest in Machine Learni
 
 
 </td></tr></table>  
-
-<br/>  
-
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
