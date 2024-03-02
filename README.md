@@ -1,9 +1,9 @@
-## Hello folks 👋, I'm Sadain Samir!  
+## Hello folks 👋, I'm Sadain!  
   
 
 
 
-I'm an aspiring Data Analytics enthusiast with a keen interest in Machine Learning (ML) and Data Science.
+An aspiring Data Analytics enthusiast with a keen interest in Machine Learning (ML) and Data Science.
 I'm particularly passionate about leveraging Python, NumPy, SQL, Tableau, and Excel to explore and build solutions in these fields.  
   
 
