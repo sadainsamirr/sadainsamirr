@@ -3,7 +3,7 @@
 
 
 
-An aspiring Data Analytics enthusiast with a keen interest in Machine Learning (ML) and Data Science.
+An aspiring Data Analyst with a keen interest in Machine Learning (ML) and Data Science.
 I'm particularly passionate about leveraging Python, NumPy, SQL, Tableau, and Excel to explore and build solutions in these fields.  
   
 
@@ -21,7 +21,7 @@ I'm particularly passionate about leveraging Python, NumPy, SQL, Tableau, and Ex
 <br/>  
 
 
-## Some Tools that that I know (kinda)
+## Some Tools that I know (kinda)
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
