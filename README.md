@@ -6,7 +6,7 @@
 An aspiring Data Analyst with a keen interest in Machine Learning (ML) and Data Science.
 I'm particularly passionate about leveraging Python, NumPy, SQL, Tableau, and Excel to explore and build solutions in these fields.  
   
-<a href="www.linkedin.com/in/sadainsamir" target="_blank">
+<a href="https://www.linkedin.com/in/sadain-samir-b10a4a280/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="https://instagram.com/sadainsamirr" target="_blank">
