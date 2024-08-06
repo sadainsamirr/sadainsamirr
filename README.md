@@ -19,7 +19,7 @@ An aspiring Data Scientist
 <br/>  
 
 
-## Some Tools that I know 
+## Tools
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
