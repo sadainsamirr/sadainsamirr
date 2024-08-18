@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-I'm **Sadain Samir**, a Python developer specializing in Machine Learning, Artificial Intelligence, and Data Science. I focus on transforming complex data into actionable insights and developing intelligent systems to address real-world challenges.
+I'm **Sadain Samir**, an Aspiring Data Scientist specializing in Machine Learning. I focus on transforming complex data into actionable insights and developing intelligent systems to address real-world challenges.
 
 ## My Expertise
 - **Python Development:** Extensive experience with Python, including a deep understanding of its libraries and frameworks.
@@ -9,7 +9,7 @@ I'm **Sadain Samir**, a Python developer specializing in Machine Learning, Artif
 
 ## Technologies & Tools
 ### Programming Languages
-Python, C, SQL, JavaScript
+Python, C, SQL
 
 ### Libraries & Frameworks
 Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn, Selenium, BeautifulSoup, Flask, Tkinter
@@ -28,5 +28,5 @@ I'm committed to staying updated with the latest technologies and continuously i
 
 **Connect with me:**
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
+- [LinkedIn](https://www.linkedin.com/in/sadainsamir/)
+- [Portfolio](https://sadainsamir.framer.ai/)
