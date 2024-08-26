@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-I'm **Sadain Samir**, an Aspiring Data Scientist specializing in Machine Learning. I focus on transforming complex data into actionable insights and developing intelligent systems to address real-world challenges.
+I'm **Sadain Samir**, an Aspiring Data Scientist. I focus on transforming complex data into actionable insights and developing intelligent systems to address real-world challenges.
 
 ## My Expertise
 - **Python Development:** Extensive experience with Python, including a deep understanding of its libraries and frameworks.
